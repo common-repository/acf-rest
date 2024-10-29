@@ -1,0 +1,30 @@
+.error {
+    color:red;
+}
+
+.btn-container {
+    text-align: right;
+}
+
+.btn {
+    display: inline-block;
+    padding: 3px 5px;
+    border: 1px solid;
+    border-radius: 2px;
+    cursor: pointer;
+    background: #efb24a;
+    color: #555;
+}
+
+.btn:hover {
+    background: #efa840;
+    color: #555;
+}
+
+.tmarg10 {
+    margin-top: 10px;
+}
+
+.js_background-green {
+ background: #6fd06d !important;
+}
